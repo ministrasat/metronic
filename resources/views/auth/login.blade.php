@@ -24,7 +24,7 @@
         </div>
         <!--begin::Heading-->
 
-        <div class="mb-10 bg-light-info p-8 rounded"><div class="text-info"> Use account <strong>admin@demo.com</strong> and password <strong>demo</strong> to continue. </div></div>
+        <div class="mb-10 bg-light-info p-8 rounded"><div class="text-info"> Please Use account <strong>admin@demo.com</strong> and password <strong>demo</strong> to continue. </div></div>
 
         <!--begin::Input group-->
         <div class="fv-row mb-10">
